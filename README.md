@@ -48,14 +48,11 @@ Understanding data types is essential to working with data in any programming la
 
 
 
-## Requirements
-
-- Fork this repo
-- Clone it to your machine
 
 ## Getting Started
 
-Complete the challenge in the `ipynb` file. Follow the instructions and add your code and explanations as necessary.
+Complete the challenges in the notebook. Follow the instructions and add your code and explanations as necessary.
+
 
 ## Submission
 
